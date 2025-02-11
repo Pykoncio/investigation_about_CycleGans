@@ -34,3 +34,5 @@ El cuaderno [cycle_gan_investigation.ipynb](cycle_gan_investigation.ipynb) conti
 - Implementación *CycleGAN* (ciudades antiguas): [Implementacion 2](https://jack-clark.net/2017/06/05/import-ai-issue-45/)
 
 - Implementación *CycleGAN* (Monet a Thomas Kinkade): [Implementacion 3](https://web.eecs.umich.edu/~fouhey//fun/monet/index.html)
+
+- Datasets para *CycleGans*: [Datasets](https://www.kaggle.com/datasets/suyashdamle/cyclegan/data)

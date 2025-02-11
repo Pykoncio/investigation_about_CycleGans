@@ -5,10 +5,10 @@ Este proyecto explora el modelo **CycleGAN**, una técnica de traducción de im�
 
 **Materiales:**  
   Todo el análisis se encuentra en el cuaderno:
-  - [cycle_gan_investigation.ipynb](cycle_gan_investigation.ipynb)
+  - [cycle_gan_theory.ipynb](cycle_gan_theory.ipynb)
 
 ## Implementación Práctica
-El cuaderno [cycle_gan_investigation.ipynb](cycle_gan_investigation.ipynb) contiene una implementación práctica de una *CycleGAN*. Aunque la implementación es muy sencilla, te enseña la base y los pasos a seguir para entender el funcionamiento de esta tecnología.
+El cuaderno [cycle_gan_example.ipynb](cycle_gan_example.ipynb) contiene una implementación práctica de una *CycleGAN*. Aunque la implementación es muy sencilla, te enseña la base y los pasos a seguir para entender el funcionamiento de esta tecnología.
 
 ## Cosas a Mejorar de la implementación Práctica
 - Modificar algunas capas de los generadores y/o discriminadores para optimizarlos.
